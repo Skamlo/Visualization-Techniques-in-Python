@@ -68,4 +68,4 @@ Informations <a gref="https://towardsdatascience.com/quick-start-to-gaussian-pro
 - Cartogram heatmap
 </details> -->
 
-contact: maksymiliannorkiewicz@gmail.com
+✉︎ maksymiliannorkiewicz@gmail.com

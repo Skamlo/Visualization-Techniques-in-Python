@@ -59,13 +59,13 @@ The main idea of this repository is present all most poular visualizations in py
 <!-- Source <a href="https://github.com/ShuaiGuo16/Hypothetical_Outcome_Plots">here</a>.
 Informations <a gref="https://towardsdatascience.com/quick-start-to-gaussian-process-regression-36d838810319">here</a>. -->
 </details>
-<!-- <details><summary><h3>Geospatial</h3></summary> -->
+<details><summary><h3>Geospatial</h3></summary>
 
-<!-- - Chloropleth
+- Chloropleth
 - Interctive chloropleth
 - Points on map
 - Interavtive points on map
 - Cartogram heatmap
-</details> -->
+</details>
 
 ✉︎ maksymiliannorkiewicz@gmail.com
